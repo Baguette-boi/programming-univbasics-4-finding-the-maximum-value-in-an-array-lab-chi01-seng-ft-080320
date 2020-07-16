@@ -2,6 +2,6 @@ def find_max_value(array)
   count = 0
   
   while array[count] do
-    array[count] == 5
+    array[count] == '5'
   end
 end
