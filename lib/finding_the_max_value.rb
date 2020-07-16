@@ -3,7 +3,7 @@ def find_max_value(array)
   
   
   while count < array.length do
-    if array[count] == 5
+    if array[count] == 6
       return count
   end
   count += 1
